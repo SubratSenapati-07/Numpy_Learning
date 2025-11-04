@@ -27,5 +27,5 @@
 ## 🧑‍💻 Author
 **Subrat Senapati**  
 🎓 B.Tech CSE Student @ GIET (BPUT University)  
-📚 Learning Python libraries for AI/ML 
-📬 GitHub Profile: (https://github.com/SubratSenapati-07)
+📚 Learning Python libraries for AI/ML  
+📬 GitHub Profile: https://github.com/SubratSenapati-07)
